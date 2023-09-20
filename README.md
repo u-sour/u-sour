@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Heng You Sour</h1>
-<img src="https://i.pinimg.com/originals/fc/ce/be/fccebe7daf018850e095d9962cadebff.gif" style="border-radius:10px;" />
-<div style="display:flex">
+<img align="right" height="170px" src="https://raw.githubusercontent.com/u-sour/u-sour/main/hacker-thinking-about-code.gif"/>
 <h3 align="left">Creation from 1% to 100% is what I like. Bring​ my ideas to life with code. Nowadays, I live in Battambang, Cambodia. I worked for a tech company over 9 years with a job like creating a Website, Web Application, Mobile Application (Android / IOS) and Researcher And introduce new technologies for the team.</h3>
-<img align="left" height="115px" src="https://media.giphy.com/media/VACkHT9n552iYcRww0/giphy.gif"/>
-</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=u-sour&label=Profile%20views&color=0e75b6&style=flat" alt="u-sour" /> </p>
 
 - 📫 How to reach me **yousour.dev.gmail.com**
