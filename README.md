@@ -1,5 +1,6 @@
+<img src="https://raw.githubusercontent.com/u-sour/u-sour/main/sour.dev.facebook-cover.jpg"/>
 <h1 align="center">Hi 👋, I'm Heng You Sour</h1>
-<img align="right" height="170px" src="https://raw.githubusercontent.com/u-sour/u-sour/main/hacker-thinking-about-code.gif"/>
+<img align="right" height="120px" src="https://raw.githubusercontent.com/u-sour/u-sour/main/sour.dev.512.png"/>
 <h3 align="left">Creation from 1% to 100% is what I like. Bring​ my ideas to life with code. Nowadays, I live in Battambang, Cambodia. I worked for a tech company over 9 years with a job like creating a Website, Web Application, Mobile Application (Android / IOS) and Researcher And introduce new technologies for the team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=u-sour&label=Profile%20views&color=0e75b6&style=flat" alt="u-sour" /> </p>
@@ -8,7 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/yousour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yousour" height="30" width="40" /></a>
+<a href="https://web.facebook.com/profile.php?id=61551635218871" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/yousour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@sour.dev" target="blank"><img align="center" src="https://img.icons8.com/color/96/tiktok--v1.png" alt="tik_tok" height="40" width="40" /></a>
+<a href="https://www.youtube.com/@sour_developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
